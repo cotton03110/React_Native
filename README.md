@@ -1,5 +1,5 @@
 ### Fastify Crash course
 
-# LearnCodeOnline
+# LearnCodeOnliness
 
 [Visit LearnCodeOnline](https://courses.learncodeonline.in)
